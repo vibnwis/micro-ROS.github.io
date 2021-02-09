@@ -76,7 +76,7 @@ Questions:
 
 Only very basic concepts (node, subscription and publisher) implemented so far. Whole library has just 500 LoC in sum.
 
-Has OSRF plans for it in the midterm? They have mentioned it on the roadmap, [rclc master](https://github.com/micro-ROS/rclc).
+Has OSRF plans for it in the midterm? They have mentioned it on the roadmap, [rclc master](https://github.com/ros2/rclc).
 
 ## Dynamic Memory Management in ROS 2
 
